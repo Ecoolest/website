@@ -36,7 +36,7 @@ padding-bottom: 15px;
   font-size:45px;  
 
 }
-.round{ text-align: center;
+.round{color: brown;
     font-size: 23px;
 
  }
@@ -57,7 +57,7 @@ padding-bottom: 15px;
 
    }
  .good { font-size: 23px;
-    color: cadetblue;
+    color:red;
 
   }
 
@@ -129,3 +129,92 @@ padding-bottom: 10px;
     font-family: sans-serif;
     color: aquamarine;
  }
+  nav ul li:hover{ color: aqua;
+    cursor: pointer;
+
+  }
+
+   nav ul li{ text-align:center;
+    display:inline-block;
+    margin-left: 100px;
+    font-size: 20px;
+    font-family: monospace;
+    font-style: italic;
+    color: brown;
+   }
+  .nature{ background-image:url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1YIs9kie3qASJVyUA9pugf0M3cZUFZ20cQ&usqp=CAU );
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-bottom: 45px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 45px;
+    padding-left: 20px;
+    
+  }
+   .nature2{ font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    color:blue;
+    font-size: 36px;
+   }
+   .nature3{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    color: chocolate;
+
+   }
+  
+   .nature4:hover{ height: 20px;
+    color:blue;
+    background-color: transparent;
+    cursor: pointer;
+    
+
+   }
+   .nature4{color: orangered;
+    background-color: transparent;
+
+   }
+   
+
+   body{background-color: cadetblue;
+    border: ridge cornflowerblue;
+
+   }
+    .soft2:hover{ cursor: pointer;
+      background-color: bisque;
+      color:green;
+
+    }
+   .button1:hover{cursor: pointer;
+    background-color:blue ;
+    color: aqua;
+
+    }
+
+    .good2:hover{ cursor:pointer;
+      background-color: blueviolet;
+      color: chocolate;
+
+    }
+     .pink:hover{ cursor: pointer;
+      background-color: darkorange;
+      color: darkorchid;
+
+     }
+      .fan2:hover{ cursor: pointer;
+        background-color: cornflowerblue;
+        color:black;
+        
+
+      }
+      .fun5:hover{ cursor: progress;
+        background-color: magenta;
+        color:aqua;
+
+      }
+      .red5{ cursor:alias;
+        background-color: dodgerblue;
+        color: hotpink;
+
+      }
