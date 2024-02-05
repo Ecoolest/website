@@ -1,0 +1,173 @@
+.red{ width: 400px;
+    height: 400px;
+    border: 3px solid red;
+    flex:1;
+    padding-right: 10px;
+    margin-right: 150px;
+    padding-left: 10px;
+    background-image: url(https://leadership.ng/wp-content/uploads/2023/12/AFCON-CAF.png  );
+ 
+}
+ .green{ width: 400px;
+    height: 400px;
+    border: 3px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-image: url(https://wazaelimu.com/wp-content/uploads/2024/01/afcon-quarter-final-2024b.jpg );
+     flex:1 ;
+
+
+}
+
+ .blue{ display: flex;
+    border: solid chocolate 20px;
+    background-color: darkgreen;
+
+
+}
+.yellow1{ width: 400px;
+    height: 400px;
+    border: 3px solid black;
+    flex:1;
+    padding-right: 10px;
+    margin-right: 150px;
+    padding-left: 10px;
+    background-image: url(https://lh3.googleusercontent.com/5hgv0K3sXN-pqi9aT4F38e6EbswKEWq1gE_33VfJBlRo-vLO0tDA1d0wxCyOdVnkLT9phpbZtwiZPAzFsVC3Fw3ed5AWzRjA3Pc=s750 );
+    background-repeat:none;
+    background-size: cover;
+    
+
+}
+ .yellow2{ width: 400px;
+    height: 400px;
+    border: 3px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+     flex:none ;
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzR4XqyI9hybbTveqET3MA2pqGkXNrk11Jdw&usqp=CAU );
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+}
+
+ .yellow{ display: flex;
+    border: solid purple 20px;
+    margin-top: 50px;
+    background-color: slategrey;
+
+}
+ .yellow21{ color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 100px;
+
+ }
+.yellow22{ color: blue;
+
+    
+}
+.yellow23{ color: brown;
+    background-color: transparent;
+
+}
+.black1{ width: 400px;
+    height: 400px;
+    border: 3px solid orange;
+    flex:none;
+    padding-right: 10px;
+    margin-right: 50px;
+    padding-left: 10px;
+    background-image: url(https://editorial.uefa.com/resources/0287-195e642735d8-f09b9f6da9f8-1000/topshot-fbl-award-ballon_d_or-2023.jpeg );
+    background-size: cover;
+
+}
+ .black2{ width: 400px;
+    height: 400px;
+    border: 3px solid orange;
+    padding-left: 10px;
+    padding-right: 10px;
+     flex:1 ;
+     background-image: url(https://c8.alamy.com/comp/R8TR8M/barcelona-spain-18th-december-2018-lionel-messi-receives-his-fifth-golden-boot-for-2017-2018-season-leo-messi-receives-the-gold-boot-2017-2018-and-is-already-his-fifth-gold-boot-credit-jomaalamy-live-news-R8TR8M.jpg );
+     background-size: cover;
+
+
+}
+
+ .black{ display: flex;
+    border: solid blueviolet 20px;
+    margin-top: 50px;
+    background-color: darkgray;
+
+
+}
+
+
+.red2{ color: gold;
+font-style: italic;
+font-size: 50px;
+margin-bottom: 50px;
+text-align: center;
+}
+.red3{color: gold;
+    font-style: italic;
+    font-size: 15px;
+    margin-bottom: 50px;
+
+}
+
+
+.red4:hover{ cursor: alias;
+    color:red;
+    
+
+}
+.red4{ background-color: transparent;
+    color: blue;
+
+}
+.green1{ color:black;
+    font-style: italic;
+    font-size: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+
+
+}
+
+.green2{ color: gold;
+    font-style: italic;
+    font-size: 15px;
+    margin-bottom: 50px;
+    text-align: center;
+
+
+}
+.green3{ background-color: transparent;
+    color: bisque;
+
+}
+.green3:hover{cursor: pointer;
+    color: blueviolet;
+
+}
+.black11{ color: blanchedalmond;
+    font-style: italic;
+    padding-bottom: 100px;
+
+}
+.black12{ color: blanchedalmond;
+
+}
+.black13{ color: blue;
+    background-color: transparent;
+
+}
+.black22{ color: blueviolet;
+    padding-top: 100px;
+
+
+}
+.hello{ background-color:gold;
+
+}
+
+
